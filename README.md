@@ -16,10 +16,10 @@ An AI-powered research assistant that:
 
 1. Clone the repository
 2. Install requirements for both frontend and backend
-3. Set up Ollama with Mistral 7B  (type in terminal after installing Ollama : Ollama pull Mistral )
+3. Set up Ollama with Mistral 7B  (type in terminal after installing Ollama :  `Ollama pull Mistral` )
 4. Get and Configure SerpAPI key in research.py
-5. In terminal Run 1: Ollama serve 
-6. Run 2 : the FastAPI backend: `uvicorn main:app --reload`
+5. In terminal Run 1: `Ollama serve`  
+6. Run 2 : the FastAPI backend: `python main.py`
 7. Run 3 : the Streamlit frontend: `streamlit run app.py`
 
 ## Configuration
