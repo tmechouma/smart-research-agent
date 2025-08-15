@@ -31,7 +31,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Header Section --- #
-st.title("🔍 Smart Research Agent")
+st.title("🔍 Smart Research Agent By Toufik Mechouma")
 st.write("Ask your question and get a sourced answer")
 
 # --- Main Form --- #
