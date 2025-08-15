@@ -1,4 +1,4 @@
-# Smart Research Agent
+# Smart Research Agent By Toufik Mechouma
 
 An AI-powered research assistant that:
 1. Searches the web for relevant information
