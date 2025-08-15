@@ -24,7 +24,7 @@ def web_search(query: str, max_results: int = 3):
       List of dictionaries containing title and URL for each result
   """
   try:
-    api_key = "239a39a6a9e0e93a03e1e130b3be7da7505f3811846a954557e2e46eae91f84a"  # Replace with actual key
+    api_key = "239a39a6a9e0e93a03e1e54jgd5fkdfdg557e2e46eae91f84a"  # Replace with actual key
     params = {
         "q": query,
         "engine": "google",
