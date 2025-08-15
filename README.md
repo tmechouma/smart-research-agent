@@ -5,6 +5,8 @@ An AI-powered research assistant that:
 2. Processes results using Mistral 7B LLM
 3. Provides sourced answers to user questions
 
+![Demo Screenshot](https://github.com/tmechouma/smart-research-agent/blob/main/snapsh.png) 
+
 ## Features
 - Web search integration (SerpAPI)
 - Local LLM processing via Ollama
